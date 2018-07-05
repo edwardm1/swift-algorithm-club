@@ -1,6 +1,6 @@
 # Why learn algorithms and data structures?
 
-If you've been coding for while you may wonder what the point is of learning about algorithms and data structures, especially if you don't have a formal computer science or engineering background.
+If you've been coding for a while you may wonder what the point is of learning about algorithms and data structures, especially if you don't have a formal computer science or engineering background.
 
 After all, how often do you actually have to use a linked list or write your own sort routine when you're making apps? The answer is: almost never.
 
